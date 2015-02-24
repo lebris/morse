@@ -8,3 +8,15 @@
  /              ~--~ / 
 (__/\_______________/ 
 ```
+
+Installation
+------------
+Use composer :
+```json
+{
+    "require": {
+        "lebris/morse" : "~1.0"
+    }
+}
+```
+
