@@ -1,5 +1,18 @@
 {
     "name" : "lebris/morse",
+    "type" : "library",
+    "authors" : [{
+            "name" : "Claude LE BRIS",
+            "email" : "claude.lebris@gmail.com"
+        }
+    ],
+    "keywords" : [
+        "translator",
+        "morse"
+    ],
+    "license" : [
+        "MIT"
+    ],
     "require-dev" : {
         "phpunit/phpunit" : "~3.7"
     },
